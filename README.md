@@ -11,7 +11,7 @@ Carrier BA: 8h 5m
 
 The difference between the average price and the median: 460,00
 
-## Полный вывод в PowerShell:
+## Полный вывод:
 PS D:\RarelyUsed\Java projects\BogdanStashchukCourse\TicketAnalizer>  mvn compile exec:java "-Dexec.mainClass=Main" "-Dexec.args=tickets.json"
 
 >>
