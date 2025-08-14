@@ -1,16 +1,25 @@
 ## Ответ на поставленную задачу: 
 Min flight time (in hours and minutes) for each carrier:
+
 Carrier SU: 6h 0m
+
 Carrier S7: 6h 30m
+
 Carrier TK: 5h 50m
+
 Carrier BA: 8h 5m
+
 The difference between the average price and the median: 460,00
 
 ## Полный вывод в PowerShell:
 PS D:\RarelyUsed\Java projects\BogdanStashchukCourse\TicketAnalizer>  mvn compile exec:java "-Dexec.mainClass=Main" "-Dexec.args=tickets.json"
+
+>>
 >>
 [INFO] Scanning for projects...
+
 [INFO]
+
 [INFO] ---------------------< org.example:TicketAnalizer >---------------------
 [INFO] Building TicketAnalizer 1.0-SNAPSHOT
 [INFO]   from pom.xml
